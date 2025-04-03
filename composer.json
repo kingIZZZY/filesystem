@@ -30,10 +30,10 @@
     },
     "require": {
         "php": "^8.2",
-        "hyperf/collection": "~3.2.0",
-        "hyperf/macroable": "~3.2.0",
-        "hyperf/support": "~3.2.0",
-        "hyperf/conditionable": "~3.2.0",
+        "hyperf/collection": "dev-3.2",
+        "hyperf/macroable": "dev-3.2",
+        "hyperf/support": "dev-3.2",
+        "hyperf/conditionable": "dev-3.2",
         "hypervel/object-pool": "dev-main"
     },
     "suggest": {
